@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# working in directory with usearch pipeline output
+
+# classify 18S
+/data/app/mothur/mothur/mothur "#classify.seqs(fasta=./OXR-18S_zotus.fa, reference=/data/app/databases/silva-138.1/silva.nr_v138_1.align, taxonomy=/data/app/databases/silva-138.1/silva.nr_v138_1.tax)"
+
+# classify 16S
+/data/app/mothur/mothur/mothur "#classify.seqs(fasta=./OXR-16S_zotus.fa, reference=/data/app/databases/silva-138.1/silva.nr_v138_1.align, taxonomy=/data/app/databases/silva-138.1/silva.nr_v138_1.tax)"
+
