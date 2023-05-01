@@ -1,0 +1,33 @@
+gene,function
+K00330 (nuoA),NADH-quinone oxidoreductase
+K00331 (nuoB),NADH-quinone oxidoreductase
+K00332 (nuoC),NADH-quinone oxidoreductase
+K00333 (nuoD),NADH-quinone oxidoreductase
+K13378 (nuoCD),NADH-quinone oxidoreductase
+K00334 (nuoE),NADH-quinone oxidoreductase
+K00335 (nuoF),NADH-quinone oxidoreductase
+K00336 (nuoG),NADH-quinone oxidoreductase
+K00337 (nuoH),NADH-quinone oxidoreductase
+K00338 (nuoI),NADH-quinone oxidoreductase
+K00339 (nuoJ),NADH-quinone oxidoreductase
+K00340 (nuoK),NADH-quinone oxidoreductase
+K00341 (nuoL),NADH-quinone oxidoreductase
+K00342 (nuoM),NADH-quinone oxidoreductase
+K00343 (nuoN),NADH-quinone oxidoreductase
+K00404 (ccoN),cbb3-type cytochrome c oxidase
+K00405 (ccoO),cbb3-type cytochrome c oxidase
+K00406 (ccoP),cbb3-type cytochrome c oxidase
+K02108 (atpB),F-type ATPase (Prokaryote)
+K02110 (atpE),F-type ATPase (Prokaryote)
+K02111 (atpA),F-type ATPase (Prokaryote)
+K02112 (atpD),F-type ATPase (Prokaryote)
+K02113 (atpH),F-type ATPase (Prokaryote)
+K02114 (atpC),F-type ATPase (Prokaryote)
+K02126 (ATPeF0A),F-type ATPase (Eukaryote)
+K02128 (ATPeF0C),F-type ATPase (Eukaryote)
+K02130 (ATPeF0F),F-type ATPase (Eukaryote)
+K02132 (ATPeF1A),F-type ATPase (Eukaryote)
+K02133 (ATPeF1B),F-type ATPase (Eukaryote)
+K02134 (ATPeF1D),F-type ATPase (Eukaryote)
+K02136 (ATPeF1G),F-type ATPase (Eukaryote)
+K02137 (ATPeF0O),F-type ATPase (Eukaryote)

@@ -1,0 +1,18 @@
+gene,function,substrate
+K00265 (gltB),Glutamate synthase,L-Glutamine->Glutamate
+K00266 (gltD),Glutamate synthase,L-Glutamine->Glutamate
+K00362 (nirB),Dissimilatory nitrate reduction,Nitrite->Ammonia
+K00363 (nirD),Dissimilatory nitrate reduction,Nitrite->Ammonia
+K00366 (nirA),Assimilatory nitrate reduction,Nitrite->Ammonia
+K00367 (narB),Assimilatory nitrate reduction,Nitrate->Nitrite
+K00368 (nirk),Denitrification,Nitrite->Nitric oxide
+K00370 (narG),Dissimilatory nitrate reduction,Nitrite->Ammonia
+K00371 (narH),Dissimilatory nitrate reduction,Nitrate->Nitrite
+K00374 (narI),Dissimilatory nitrate reduction,Nitrate->Nitrite
+K01915 (glnA),Glutamine synthetase,Ammonia->L-Glutamine
+K02575 (Nrt),Nitrate/nitrite transporter,Nitrate
+K03320 (amt),Ammonium transporter,Ammonium
+K10535 (hao),Nitrification,Hydroxylamine->Nitrite
+K10944 (amoA),Nitrification,Ammonia->Hydroxylamine
+K10945 (amoB),Nitrification,Ammonia->Hydroxylamine
+K10946 (amoC),Nitrification,Ammonia->Hydroxylamine

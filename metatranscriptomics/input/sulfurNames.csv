@@ -1,0 +1,20 @@
+gene,function,substrate
+K17218 (sqr),Sulfide quinone reductase,Sulfide->Sulfur
+K11180 (dsrA),Dissimilatory sulfate reduction and oxidation,Sulfite->Trisulfide
+K11181 (dsrB),Dissimilatory sulfate reduction and oxidation,Sulfite->Trisulfide
+K00958 (sat),Dissimilatory sulfate reduction and oxidation,Sulfate->APS
+K00394 (aprA),Dissimilatory sulfate reduction and oxidation,APS->Sulfite
+K00395 (aprB),Dissimilatory sulfate reduction and oxidation,APS->Sulfite
+K17222 (soxA),SOX system,Thiosulfate->Sulfate
+K17224 (soxB),SOX system,Thiosulfate->Sulfate
+K17225 (soxC),SOX system,Thiosulfate->Sulfate
+K22622 (soxD),SOX system,Thiosulfate->Sulfate
+K17223 (soxX),SOX system,Thiosulfate->Sulfate
+K17226 (soxY),SOX system,Thiosulfate->Sulfate
+K17227 (soxZ),SOX system,Thiosulfate->Sulfate
+K00955 (cysNC),Assimalatory sulfate reduction,Sulfate->APS
+K00957 (cysD),Assimalatory sulfate reduction,Sulfate->APS
+K00860 (cysC),Assimalatory sulfate reduction,APS->PAPS
+K00390 (cysH),Assimalatory sulfate reduction,PAPS->Sulfite
+K00380 (cycJ),Assimalatory sulfate reduction,Sulfite->Sulfide
+K00381 (cysI),Assimalatory sulfate reduction,Sulfite->Sulfide
